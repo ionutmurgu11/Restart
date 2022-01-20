@@ -1,6 +1,6 @@
 # Restart - Onboarding APP
 
-![Screenshot](https://ibb.co/5Bqkb5m)
+![Screenshot](https://i.ibb.co/dGnt8QF/Simulator-Screen-Shot-i-Phone-13-2022-01-20-at-18-36-17.png)
 
 The following IOS app is built using Swift, it showcases the following:
 
